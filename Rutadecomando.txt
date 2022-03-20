@@ -7,3 +7,8 @@ $ git push -u origen main
 $ git add .gitignore
 $ git commit -m "segundo commit con añadir archivo ignore, incluye ignore carpeta Key con las key de acceso a Git"
 $ git push -u origen main
+$ git add Rutadecomando.txt
+$ git commit -m "tercer commit añadiendo el archivo con todos los comando intrucidos por consola"
+$ git add Rutadecomando.txt
+$ git commit -m "cuarto commit, actualizando contenido de rutadecomando.txt"
+$ git push -u origen main
