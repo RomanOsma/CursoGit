@@ -12,3 +12,5 @@ $ git commit -m "tercer commit añadiendo el archivo con todos los comando intru
 $ git add Rutadecomando.txt
 $ git commit -m "cuarto commit, actualizando contenido de rutadecomando.txt"
 $ git push -u origen main
+$ git commit -am "quinto commit, uso de nuevo comando para add y commit juntos"
+
